@@ -1,0 +1,212 @@
+[
+  [
+    {
+      "c": "#b81b24",
+      "a": 3,
+      "fa": [
+        4
+      ]
+    },
+    "ESC\n\n\n\n`\n~",
+    {
+      "c": "#cccccc",
+      "a": 4,
+      "f": 3
+    },
+    "!\n1\n\n\nF1",
+    {
+      "f": 3
+    },
+    "@\n2\n\n\nF2",
+    {
+      "f": 3
+    },
+    "#\n3\n\n\nF3",
+    {
+      "f": 3
+    },
+    "$\n4\n\n\nF4",
+    {
+      "f": 3
+    },
+    "%\n5\n\n\nF5",
+    {
+      "f": 3
+    },
+    "^\n6\n\n\nF6",
+    {
+      "f": 3
+    },
+    "&\n7\n\n\nF7",
+    {
+      "f": 3
+    },
+    "*\n8\n\n\nF8",
+    {
+      "f": 3
+    },
+    "(\n9\n\n\nF9",
+    {
+      "f": 3
+    },
+    ")\n0\n\n\nF10",
+    {
+      "f": 3
+    },
+    "_\n-\n\n\nF11",
+    {
+      "f": 3
+    },
+    "+\n=\n\n\nF12",
+    {
+      "f": 3
+    },
+    "|\n\\",
+    "\nSpace\n\n\n\n\nBack"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "\nTab",
+    "\nQ",
+    "\nW",
+    "\nE\n\n\n<i class='fa fa-caret-up'></i>",
+    "\nR",
+    "\nT",
+    "\nY\n\n\nCal",
+    "\nU",
+    "\nI\n\n\nIns",
+    "\nO",
+    "\nP\n\n\nPrtSc",
+    {
+      "a": 5,
+      "f": 3
+    },
+    "{\n[\n\n\nScrLk",
+    {
+      "f": 3
+    },
+    "}\n]\n\n\nPause",
+    {
+      "a": 4,
+      "w": 1.5
+    },
+    "\n\n\nDel"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "\nCaps Lock",
+    "\nA",
+    "\nS\n\n\n<i class='fa fa-caret-left'></i>",
+    "\nD\n\n\n<i class='fa fa-caret-down'></i>",
+    "\nF\n\n\n<i class='fa fa-caret-right'></i>",
+    "\nG",
+    "\nH",
+    "\nJ",
+    "\nK",
+    "\nL",
+    {
+      "f": 3
+    },
+    ":\n;",
+    {
+      "a": 5,
+      "f": 3
+    },
+    "\"\n'",
+    {
+      "a": 4,
+      "w": 2.25
+    },
+    "\n\n\nEnter"
+  ],
+  [
+    {
+      "w": 2
+    },
+    "\nShift",
+    "\nZ",
+    "\nX\n\n\n<i class='kb kb-Hamburger-Menu'></i>",
+    "\nC",
+    "\nV",
+    "\nB",
+    "\nN\n\n\n<i class='fa fa-volume-down'></i>",
+    "\nM\n\n\n<i class='fa fa-volume-up'></i>",
+    {
+      "f": 3
+    },
+    "<\n,\n\n\n<i class='fa fa-volume-off'></i>",
+    {
+      "f": 3
+    },
+    ">\n.",
+    {
+      "f": 3
+    },
+    "?\n/",
+    {
+      "a": 5
+    },
+    "\nShift",
+    {
+      "fa": [
+        4,
+        1
+      ]
+    },
+    "\n<i class='fa fa-caret-up'></i>\n\n\nPgUp",
+    {
+      "a": 4,
+      "f": 3
+    },
+    "\nFn"
+  ],
+  [
+    {
+      "c": "#f00e52",
+      "a": 7,
+      "f": 3,
+      "w": 1.25
+    },
+    "CTRL",
+    {
+      "c": "#9b6482",
+      "f": 3,
+      "w": 1.25
+    },
+    "WIN",
+    {
+      "c": "#009bca",
+      "f": 3,
+      "w": 1.25
+    },
+    "ALT",
+    {
+      "c": "#cccccc",
+      "w": 6.25
+    },
+    "",
+    {
+      "a": 4,
+      "f": 3
+    },
+    "\nAlt",
+    "\n\n\nCtrl",
+    {
+      "a": 5,
+      "f": 3
+    },
+    "\n<i class='fa fa-caret-left'></i>\n\n\nHome",
+    {
+      "f": 3
+    },
+    "\n<i class='fa fa-caret-down'></i>\n\n\nPgDn",
+    {
+      "f": 3
+    },
+    "\n<i class='fa fa-caret-right'></i>\n\n\nEnd"
+  ]
+]
